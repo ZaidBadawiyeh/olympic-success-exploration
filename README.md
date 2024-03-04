@@ -4,7 +4,7 @@ Welcome to my analysis on the potential impact of Olympic success on the valuati
 
 ## Motivation
 
-As a budding data analyst, I was intrigued by the relationship between athletic achievements at the Olympic Games and the subsequent valuation and popularity of sports in a country. This analysis allowed me to apply my Python skills to merge and analyze large and complex datasets in pursuit of meaningful insights.
+As a developing analyst, I was intrigued by the relationship between athletic achievements at the Olympic Games and the subsequent valuation and popularity of sports in a country. This analysis allowed me to apply my Python skills to merge and analyze large and complex datasets in pursuit of meaningful insights.
 
 ## Methodology
 
